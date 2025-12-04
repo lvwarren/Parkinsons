@@ -4,7 +4,7 @@
 [[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [[Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
-> **A comprehensive machine learning approach to screening Parkinson's Disease through voice biomarker analysis, achieving up to 98% accuracy.**
+> **A comprehensive machine learning approach to screening Parkinson's Disease through voice biomarker analysis, achieving up to 95% accuracy.**
 
 ## 🌟 Overview
 
